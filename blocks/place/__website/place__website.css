@@ -1,0 +1,13 @@
+.place__website {
+    list-style: none;
+    color: white;
+    justify-self: start;
+    align-self: end;
+}
+
+@media screen and (max-width:320px) {
+    .place__website {
+        width: 288px;
+        justify-self: center;
+    }
+}
