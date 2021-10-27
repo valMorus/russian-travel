@@ -1,0 +1,31 @@
+.footer__copyryght {
+    font-family: 'Inter', Arial, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+    text-align: right;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width:700px) {
+    .footer__copyryght {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .footer__copyryght {
+        text-align: start;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .footer__copyryght {
+        font-size: 14px;
+        line-height: 14px;
+    }
+}

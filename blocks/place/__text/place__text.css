@@ -1,0 +1,30 @@
+.place__text {
+    grid-area: 2/2;
+}
+
+@media screen and (max-width:650px) {
+    .place__text {
+        grid-row-start: 4;
+        grid-column-start: 1;
+        width: 400px;
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .place__text {
+        grid-row-start: 4;
+        grid-column-start: 1;
+        width: 320px;
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .place__text {
+        grid-row-start: 4;
+        grid-column-start: 1;
+        width: 288px;
+        justify-self: center;
+    }
+}
