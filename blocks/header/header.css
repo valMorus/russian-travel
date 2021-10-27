@@ -4,7 +4,6 @@
     margin: 0 auto 56px;
     padding-top: 28px;
     display: grid;
-    display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: space-between;
     align-items: end;
