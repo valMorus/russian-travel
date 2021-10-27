@@ -17,10 +17,14 @@
     }
 }
 
+@media screen and (max-width:500px) {
+    .footer__copyryght {
+        text-align: start;
+    }
+}
 
 @media screen and (max-width:320px) {
     .footer__copyryght {
-        text-align: start;
         font-size: 14px;
         line-height: 14px;
     }

@@ -20,14 +20,20 @@
     }
 }
 
+@media screen and (max-width:500px) {
+    .footer__two-columns {
+        width: calc(100vw - 140px);
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 270px 14px;
+        row-gap: 48px;
+        justify-content: space-between;
+    }
+}
+
 @media screen and (max-width:320px) {
     .footer__two-columns {
         width: calc(100vw - 134px);
-        border: 1px solid yellow;
-        display: grid;
-        grid-template-columns: 1fr;
         grid-template-rows: 260px 14px;
-        row-gap: 48px;
-        justify-content: space-between;
     }
 }

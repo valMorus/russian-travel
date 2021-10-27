@@ -21,12 +21,6 @@
     }
 }
 
-@media screen and (max-width:768px) {
-    .cover__subtitle {
-        margin-top: 32px;
-    }
-}
-
 @media screen and (max-width:320px) {
     .cover__subtitle {
         max-width: 288px;

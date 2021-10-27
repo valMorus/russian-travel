@@ -23,24 +23,20 @@
 @media screen and (max-width:1024px) {
     .place {
         grid-template-columns: 440px 1fr;
-        column-gap: 32px;
     }
 }
 
 @media screen and (max-width:894px) {
     .place {
         grid-template-columns: 360px 1fr;
-        column-gap: 32px;
     }
 }
 
 @media screen and (max-width:808px) {
     .place {
         grid-template-columns: 350px 1fr;
-        column-gap: 32px;
     }
 }
-
 
 @media screen and (max-width:768px) {
     .place {
@@ -63,17 +59,7 @@
 @media screen and (max-width:400px) {
     .place {
         grid-template-columns: 320px;
-        row-gap: 32px;
-        margin-bottom: 50px;
         max-width: 320px;
     }
 }
 
-@media screen and (max-width:320px) {
-    .place {
-        grid-template-columns: 320px;
-        row-gap: 32px;
-        margin-bottom: 50px;
-        max-width: 320px;
-    }
-}
