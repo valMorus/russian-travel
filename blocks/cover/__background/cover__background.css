@@ -51,7 +51,7 @@
 
 @media screen and (max-width:555px) {
     .cover__background {
-        height: 62.5%;
+        height: 346px;
         max-width: 555px;
         margin-top: 70px;
         padding-top: 60px;
