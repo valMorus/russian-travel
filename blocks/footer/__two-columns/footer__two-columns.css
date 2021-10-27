@@ -35,5 +35,6 @@
     .footer__two-columns {
         width: calc(100vw - 134px);
         grid-template-rows: 260px 14px;
+        margin-bottom: 24px;
     }
 }
