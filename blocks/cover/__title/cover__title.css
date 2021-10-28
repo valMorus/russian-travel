@@ -11,9 +11,9 @@
     text-align: center;
     color: #FFFFFF;
     position: relative;
-    text-decoration: none;
-    margin: auto;
-    padding: 0;
+    margin: 0;
+    
+    
 }
 
 @media screen and (max-width:555px) {
