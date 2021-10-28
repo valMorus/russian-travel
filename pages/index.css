@@ -68,7 +68,7 @@
 
 @import url(../blocks/footer/footer.css);
 
-@import url(../blocks/footer/__two-columns/footer__two-columns.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
 
 @import url(../blocks/footer/__links/footer__links.css);
 
