@@ -45,12 +45,7 @@
 @media screen and (max-width:358px) {
     .lead__titile {
         font-size: 41px;
-    }
-}
-
-@media screen and (max-width:320px) {
-    .lead__titile {
-        font-size: 40px;
         line-height: 44px;
     }
 }
+
