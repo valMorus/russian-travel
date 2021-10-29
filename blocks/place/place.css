@@ -7,6 +7,9 @@
     margin-bottom: 80px;
     max-width: 1280px;
     box-sizing: border-box;
+    font-family: 'Inter', Arial, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
 }
 
 .place:last-of-type {
