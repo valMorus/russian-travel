@@ -1,9 +1,6 @@
 .lead__titile {
     margin: 0;
     max-width: 720px;
-    font-family: Inter, Arial, sans-serif;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;

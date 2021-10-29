@@ -1,7 +1,4 @@
 .intro__title {
-    font-family: 'Inter', Arial, sans-serif;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
     font-style: normal;
     font-weight: 900;
     font-size: 54px;
@@ -17,4 +14,3 @@
         line-height: 35px;
     }
 }
-
