@@ -10,34 +10,41 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width:701px) {
+    .lead__titile {
+        font-size: 76px;
+        line-height: 100%;
+    }
+}
+
 @media screen and (max-width:676px) {
     .lead__titile {
-        font-size: 80px;
-        line-height: 100%;
+        font-size: 69px;
+        
     }
 }
 
 @media screen and (max-width:570px) {
     .lead__titile {
-        font-size: 70px;
+        font-size: 67px;
     }
 }
 
 @media screen and (max-width:500px) {
     .lead__titile {
-        font-size: 60px;
+        font-size: 56px;
     }
 }
 
 @media screen and (max-width:430px) {
     .lead__titile {
-        font-size: 50px;
+        font-size: 45px;
     }
 }
 
 @media screen and (max-width:358px) {
     .lead__titile {
-        font-size: 45px;
+        font-size: 41px;
     }
 }
 
