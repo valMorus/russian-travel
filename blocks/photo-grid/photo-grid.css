@@ -1,4 +1,4 @@
-.photo-grid {
+  .photo-grid {
     width: calc(100vw - 96px);
     margin: 92px auto 0;
     display: grid;
