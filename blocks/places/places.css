@@ -29,7 +29,7 @@
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .places {
         width: 100vw;
     }
