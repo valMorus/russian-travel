@@ -11,7 +11,7 @@
     font-family: 'Inter', Arial, sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-}
+    }
 
 @media screen and (max-width:768px) {
     .header {
@@ -24,6 +24,5 @@
         width: calc(100vw - 32px);
         margin-bottom: 48px;
         padding-top: 16px;
-        height: 42px;
     }
 }

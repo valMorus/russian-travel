@@ -17,20 +17,7 @@
     }
 }
 
-@media screen and (max-width:676px) {
-    .lead__titile {
-        font-size: 69px;
-        
-    }
-}
-
 @media screen and (max-width:570px) {
-    .lead__titile {
-        font-size: 67px;
-    }
-}
-
-@media screen and (max-width:500px) {
     .lead__titile {
         font-size: 56px;
     }
@@ -38,14 +25,12 @@
 
 @media screen and (max-width:430px) {
     .lead__titile {
-        font-size: 45px;
-    }
-}
-
-@media screen and (max-width:358px) {
-    .lead__titile {
-        font-size: 41px;
+        font-size: 40px;
         line-height: 44px;
     }
 }
+
+ 
+
+
 
