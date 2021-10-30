@@ -19,14 +19,6 @@
     }
 }
 
-@media screen and (max-width:450px) {
-    .header {
-        width: calc(100vw - 32px);
-        margin-bottom: 48px;
-        padding-top: 16px;
-    }
-}
-
 @media screen and (max-width:320px) {
     .header {
         width: calc(100vw - 32px);
