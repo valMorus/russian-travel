@@ -9,22 +9,20 @@
     text-align: center;
     color: #FFFFFF;
     padding: 0;
+    margin-bottom: 1px;
     margin-top: 32px;
+    margin-bottom: 0;
 }
 
-@media screen and (max-width:1024px) {
-    .cover__subtitle {
-        margin-top: 32px;
-    }
-}
+
+
+
 
 @media screen and (max-width:320px) {
     .cover__subtitle {
         max-width: 280px;
         font-size: 14px;
         line-height: 16px;
-        text-align: center;
-        color: #FFFFFF;
         margin-top: 16px;
     }
 }

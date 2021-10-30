@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     padding-bottom: 7px;
+    list-style: none;
 }
 
 @media screen and (max-width:320px) {
