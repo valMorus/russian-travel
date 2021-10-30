@@ -56,9 +56,9 @@
     }
 }
 
-@media screen and (max-width:740px) {
+@media screen and (max-width:767px) {
     .place {
-        grid-template-columns: 320px;
-        max-width: 320px;
+        grid-template-columns: 1fr;
+        margin-bottom: 50px;
     }
 }
