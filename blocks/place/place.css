@@ -62,3 +62,12 @@
         max-width: 320px;
     }
 }
+
+@media screen and (max-width:320px) {
+    .place {
+        grid-template-rows: auto;
+        row-gap: 32px;
+        margin-bottom: 50px;
+    
+    }
+}
