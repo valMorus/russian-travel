@@ -6,6 +6,7 @@
     list-style: none;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 @media screen and (max-width:1024px) {
@@ -25,22 +26,13 @@
 @media screen and (max-width:740px) {
     .places {
         width: 100vw;
-        margin: 80px auto;
-    }
-}
-
-
-@media screen and (max-width:400px) {
-    .places {
         max-width: 320px;
-        margin-bottom: 50px;
-        margin-top: 50px;
+        margin: 60px auto 62px;
     }
 }
 
 @media screen and (max-width:320px) {
     .places {
-        width: 100vw;
         margin: 0;
     }
 }
