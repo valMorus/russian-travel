@@ -19,7 +19,8 @@
 
 @media screen and (max-width:570px) {
     .lead__titile {
-        font-size: 56px;
+        font-size: 45px;
+        max-width: 320px;
     }
 }
 
